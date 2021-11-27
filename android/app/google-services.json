@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980360923815",
+    "project_id": "hadirin-ebee8",
+    "storage_bucket": "hadirin-ebee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980360923815:android:d91e66f6e88aa005d8e982",
+        "android_client_info": {
+          "package_name": "com.hadirin_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980360923815-r8h68pn7j1ghnnt6797nu2gq12c4jman.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6reRQEFYywWW0lbGr2L1ocstRf71uoFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980360923815-r8h68pn7j1ghnnt6797nu2gq12c4jman.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
